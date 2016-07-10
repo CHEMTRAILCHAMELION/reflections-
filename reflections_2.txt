@@ -1,0 +1,22 @@
+How can you use the commands git log and git diff to view the history of files?
+
+-git log will show you all of the commits made in that repository and will show them each with a unique id number, author, date and short description of the changes made.
+
+-you can then use git diff to comapare the defferences in each of the files by writing 'git diff' followed by both of the version id's that you would like to compare
+
+How might using version control make you more confident to make changes that could break something?
+
+-it will allow an easy and quick reset to undo all of the possibly erroneous code that you have written. This means that you dont have to worry about breaking your code because it will have no actuall cosequences.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+-i want to use git for programming machine learning for a section of my phd
+
+What happens when you initialize a repository? Why do you need to do it?
+
+-it will create a hidden git folder for your git commits to stay in.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+-working directory is just the current directory that you are working on, the repository is a directory that holds all of the git commits, the staging area is inbetween them. When you are going to add something from your working directory, you add it to the staging area and then from there you can commit it to your repository.
+
