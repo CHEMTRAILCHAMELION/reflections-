@@ -1,0 +1,23 @@
+-learned how to find differences between two files using the command prompt
+
+-I used git bash as an alternative because you can use it in the same way as the mac/linux terminal works
+
+-used the diff -u function
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+-You can easily view and undo any changes you make to program, allowing you to restore it to a previous working state or just to highlight the erroneous changes and allow you to fix them
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros to manual:
+-can create a commit whenever it makes sense, e.g. the you can know exactly the most relevant times to commit.
+
+Cons:
+-Prone to human error, if you forget to commit and then OVER commit it can be really disadvantageous  and the resolution on your versions will be really poor.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+-because it is specifically geared towards coding in which a group of files will be co dependant on each other whereas google docs are tailored towards word processing in which the file is not reliant on any other files.
+
