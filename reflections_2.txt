@@ -36,4 +36,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 -we get a fusion of the resulting 2 branches of code. It will look at the two ends of the branches and look at the commit that they split from and intelligently compare and combine them. 
 
- 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+-pros are; saves loads of time, will automatically include new code or not include newly deleted code etc and will flag up any conflicts in which both versions do not match with the original version. 
+
