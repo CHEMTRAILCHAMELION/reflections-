@@ -31,3 +31,9 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 
 -its very easy to see when branches split and rejoin, you get a timeline that allows you to make it very simple to understand the different branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+-we get a fusion of the resulting 2 branches of code. It will look at the two ends of the branches and look at the commit that they split from and intelligently compare and combine them. 
+
+ 
