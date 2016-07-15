@@ -20,3 +20,6 @@ How is the staging area different from the working directory and the repository?
 
 -working directory is just the current directory that you are working on, the repository is a directory that holds all of the git commits, the staging area is inbetween them. When you are going to add something from your working directory, you add it to the staging area and then from there you can commit it to your repository.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+by adding each file in the directory to the staging area one file at a time. You can then use git diff etc to check the differences between current files, staged files and the most recent files in the git repository. 
