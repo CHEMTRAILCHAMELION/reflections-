@@ -14,3 +14,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 -You can know all of the work you have done without syncing with the online repository in any way, by comparing the origin/master repository with your master brnach 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+-email or dropbox or google drive or something. It would be easier to use because you wouldnt have to learn command line but it would be much much much less useful.
+
+ 
